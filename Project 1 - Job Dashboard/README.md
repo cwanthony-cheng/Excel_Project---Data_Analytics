@@ -1,10 +1,10 @@
-# Project 1 - Data Science Job Market & Salary Dashboard
+# Project 1 - Job Dashboard
 
 ## Project Overview
 
 An interactive Excel dashboard designed to explore job market trends and salary information across various data-related occupations worldwide.
 
-Using approximately 140,000 job postings, the dashboard allows users to analyse median salaries based on job title, country, and employment type. Users can interact with dropdown filters to dynamically explore salary comparisons and gain insights into the global data science job market.
+Using approximately 140,000 job postings in 2026, the dashboard allows users to analyse median salaries based on job title, country, and employment type. Users can interact with dropdown filters to dynamically explore salary comparisons and gain insights into the global data science job market.
 
 ## Key Features
 
