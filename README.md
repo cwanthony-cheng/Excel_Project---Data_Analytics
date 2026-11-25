@@ -12,7 +12,7 @@ An interactive dashboard built using a global Data Science job market dataset. T
 - 📊 Interactive Dashboard Design
 
 **Preview**
-<img width="1962" height="938" alt="Data Science Salary Dashboard" src="https://github.com/user-attachments/assets/4d134877-b6ef-4505-933c-fb532c604e89" />
+<img width="1846" height="947" alt="Data Science Salary Dashboard2" src="https://github.com/user-attachments/assets/47584f96-67db-4433-aa23-4fb1fe71287a" />
 
 ## Porject 2 - Data Analysis
 This project builds on the same dataset used in Project 1, focusing on exploring relationships between job skills and salaries. The analysis aims to identify correlations between in-demand technical skills and compensation, as well as highlight the most sought-after skills among data professionals.   
