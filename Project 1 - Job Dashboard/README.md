@@ -34,5 +34,6 @@ Using approximately 140,000 job postings, the dashboard allows users to analyse 
 
 ## Dashboard Preview
 
-[Insert dashboard screenshot here]
+<img width="1846" height="947" alt="Data Science Salary Dashboard2" src="https://github.com/user-attachments/assets/63b01e12-8a6e-4b3f-b3a4-b6b7cb4fcb97" />
+
 
