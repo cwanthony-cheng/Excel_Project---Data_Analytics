@@ -48,3 +48,12 @@ Using Power Query, Power Pivot, the Excel Data Model, and PivotTables, I develop
 - Investigated the most frequently requested technical skills across different occupations.
 - Compared skill demand with median salary levels to better understand the data job market.
 
+## Preview
+
+<img width="1892" height="1199" alt="Picture1" src="https://github.com/user-attachments/assets/a5ddbdcf-c0ab-4250-89ea-22abc05e46a8" />
+<img width="771" height="303" alt="Picture5" src="https://github.com/user-attachments/assets/a685b962-5f2a-430b-8f16-82a6c869e82c" />
+<img width="935" height="372" alt="Picture3" src="https://github.com/user-attachments/assets/ab9bd8e2-7210-4b3b-b30f-a5ec6f7bf52a" />
+<img width="771" height="319" alt="Picture4" src="https://github.com/user-attachments/assets/db451ced-7a75-4992-a9da-bc08daa7bd61" />
+
+
+
